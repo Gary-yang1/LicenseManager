@@ -1,4 +1,4 @@
-module github.com/xinjiayu/LicenseManager
+module github.com/Gary-yang1/LicenseManager
 
 go 1.12
 
